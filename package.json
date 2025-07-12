@@ -1,0 +1,20 @@
+{
+  "name": "liquidsoap-playground",
+  "version": "1.1.0",
+  "description": "Demo package showing how to integrate liquidsoap prettier and codemirror syntax highlighting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Romain Beauxis <toots@rastageeks.org>",
+  "license": "ISC",
+  "packageManager": "pnpm@10.5.0",
+  "dependencies": {
+    "@codemirror/state": "6.5.2",
+    "@uiw/codemirror-themes-all": "4.23.10",
+    "codemirror": "6.0.1",
+    "codemirror-lang-liquidsoap": "0.4.0",
+    "liquidsoap-prettier": "1.6.0",
+    "prettier": "3.5.3"
+  }
+}
