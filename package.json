@@ -10,11 +10,12 @@
   "license": "ISC",
   "packageManager": "pnpm@10.5.0",
   "dependencies": {
-    "@codemirror/state": "6.5.2",
-    "@uiw/codemirror-themes-all": "4.25.1",
+    "@babel/runtime": "^7.29.2",
+    "@codemirror/state": "6.6.0",
+    "@uiw/codemirror-themes-all": "4.25.9",
     "codemirror": "6.0.2",
     "codemirror-lang-liquidsoap": "0.4.1",
     "liquidsoap-prettier": "1.8.3",
-    "prettier": "3.8.1"
+    "prettier": "3.8.2"
   }
 }
