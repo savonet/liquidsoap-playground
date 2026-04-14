@@ -21,8 +21,8 @@ importers:
         specifier: 0.4.1
         version: 0.4.1
       liquidsoap-prettier:
-        specifier: 1.7.3
-        version: 1.7.3
+        specifier: 1.8.3
+        version: 1.8.3
       prettier:
         specifier: 3.8.1
         version: 3.8.1
@@ -262,8 +262,8 @@ packages:
   jackspeak@3.4.3:
     resolution: {integrity: sha512-OGlZQpz2yfahA/Rd1Y8Cd9SIEsqvXkLVoSw/cgwhnhFMDbsQFeZYoJJ7bIZBS9BcamUW96asq/npPWugM+RQBw==}
 
-  liquidsoap-prettier@1.7.3:
-    resolution: {integrity: sha512-HASuVs2FoQPHMHEUhxUFzPuNJbk3b/HQjoUjTUXoW8ruQdX/MRhhyGg2EH4HcMRp1558Xn2DOtE2RBMougF/PA==}
+  liquidsoap-prettier@1.8.3:
+    resolution: {integrity: sha512-KthpGEnbY7FCRAClB4KlupfVNeTxfedHVtjrWNsQRUlDrRku8nuzUWy35VO+cRWY84cuXfA/nL3dHhX0vdi+7A==}
     hasBin: true
 
   lru-cache@10.4.3:
@@ -838,7 +838,7 @@ snapshots:
     optionalDependencies:
       '@pkgjs/parseargs': 0.11.0
 
-  liquidsoap-prettier@1.7.3:
+  liquidsoap-prettier@1.8.3:
     dependencies:
       bluebird: 3.7.2
       glob: 10.4.5

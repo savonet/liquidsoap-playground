@@ -14,7 +14,7 @@
     "@uiw/codemirror-themes-all": "4.25.1",
     "codemirror": "6.0.2",
     "codemirror-lang-liquidsoap": "0.4.1",
-    "liquidsoap-prettier": "1.7.3",
+    "liquidsoap-prettier": "1.8.3",
     "prettier": "3.8.1"
   }
 }
